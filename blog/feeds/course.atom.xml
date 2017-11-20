@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="https://cpb.kmol.info/40623241/doc/trunk/blog/" rel="alternate"></link><link href="https://cpb.kmol.info/40623241/doc/trunk/blog/feeds/course.atom.xml" rel="self"></link><id>https://cpb.kmol.info/40623241/doc/trunk/blog/</id><updated>2017-11-06T11:00:00+08:00</updated><entry><title>2017 Fall CP 第九週</title><link href="https://cpb.kmol.info/40623241/doc/trunk/blog/2017-fall-cp-w9.html" rel="alternate"></link><published>2017-11-06T11:00:00+08:00</published><updated>2017-11-06T11:00:00+08:00</updated><author><name>40623241</name></author><id>tag:cpb.kmol.info,2017-11-06:/40623241/doc/trunk/blog/2017-fall-cp-w9.html</id><summary type="html">&lt;p&gt;w9&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w9&lt;/p&gt;
+
+
+&lt;p&gt;w1-2導入週-戴耳機還有筆記本&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;機械設計是一種表達(口語.文字.圖表.數學.量化.實體)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w3-4開始學習fossil指令(fossil open.clone.commit.....)&lt;/p&gt;
+&lt;p&gt;w5-6學習網志維護&lt;/p&gt;
+&lt;p&gt;w7-8期中考&lt;/p&gt;
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;第一次接觸這種東西，覺得很新奇，但也覺得很難，所以在前幾周都聽不懂，但後面幾個禮拜經由同學的教導還有不斷的嘗試，現在開始慢慢進入軌道的感覺，我會繼續努力學習下去，就算中途遇到各種困難也會盡全力克服困難&lt;/p&gt;
+&lt;h3&gt;自評成績60&lt;/h3&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/241461927" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>2017 Fall CP 第八週</title><link href="https://cpb.kmol.info/40623241/doc/trunk/blog/2017-fall-cp-w8.html" rel="alternate"></link><published>2017-11-05T11:00:00+08:00</published><updated>2017-11-05T11:00:00+08:00</updated><author><name>40623241</name></author><id>tag:cpb.kmol.info,2017-11-05:/40623241/doc/trunk/blog/2017-fall-cp-w8.html</id><summary type="html">&lt;p&gt;w8-exam&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w8-exam&lt;/p&gt;
+
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;這禮拜的考試讓我可以從第一周到第八周的東西重新回復一次，重新回想老師上課的東西，雖然是第一次錄影片，覺得很新奇，也覺得有點困難，過程中會遇到很多突發狀況，但都一項一項九解決了，往後的每一周都會更盡力的學習&lt;/p&gt;
+&lt;h3&gt;自評成績60&lt;/h3&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/241386660" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>計算機程式第七週學習心得</title><link href="https://cpb.kmol.info/40623241/doc/trunk/blog/40623241-2017-fall-cadp-w7-exam.html" rel="alternate"></link><published>2017-10-30T00:00:00+08:00</published><updated>2017-10-30T00:00:00+08:00</updated><author><name>40623241</name></author><id>tag:cpb.kmol.info,2017-10-30:/40623241/doc/trunk/blog/40623241-2017-fall-cadp-w7-exam.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;h3&gt;自評成績:60&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/240416072" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>2017 Fall CADP 第五週</title><link href="https://cpb.kmol.info/40623241/doc/trunk/blog/2017-fall-cadp-w5.html" rel="alternate"></link><published>2017-09-27T11:00:00+08:00</published><updated>2017-09-27T11:00:00+08:00</updated><author><name>40623241</name></author><id>tag:cpb.kmol.info,2017-09-27:/40623241/doc/trunk/blog/2017-fall-cadp-w5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;課堂筆記&lt;/p&gt;
+&lt;p&gt;網路有兩種假設 (伺服,客戶) &lt;/p&gt;
+&lt;p&gt;python變數必須用英文字母大小寫或底線&lt;/p&gt;
+&lt;p&gt;Dos大小寫相同&lt;/p&gt;
+&lt;p&gt;comment       註解&lt;/p&gt;
+&lt;p&gt;inport            輸入導入&lt;/p&gt;
+&lt;p&gt;( )                  變數函式 &lt;/p&gt;
+&lt;p&gt;" "                 字串&lt;/p&gt;
+&lt;p&gt;define            定義函式&lt;/p&gt;
+&lt;p&gt;tri(*)              函式名稱&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第5週</title><link href="https://cpb.kmol.info/40623241/doc/trunk/blog/2017-fall-cadp-w2.html" rel="alternate"></link><published>2017-09-20T11:00:00+08:00</published><updated>2017-09-20T11:00:00+08:00</updated><author><name>40623241</name></author><id>tag:cpb.kmol.info,2017-09-20:/40623241/doc/trunk/blog/2017-fall-cadp-w2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;課堂筆記&lt;/p&gt;
+&lt;p&gt;網路有兩種假設 (伺服,客戶) &lt;/p&gt;
+&lt;p&gt;python變數必須用英文字母大小寫或底線&lt;/p&gt;
+&lt;p&gt;Dos大小寫相同&lt;/p&gt;
+&lt;h1&gt;，comment 註解&lt;/h1&gt;
+&lt;p&gt;inport            輸入導入&lt;/p&gt;
+&lt;p&gt;( )                  變數函式 &lt;/p&gt;
+&lt;p&gt;" "                 字串&lt;/p&gt;
+&lt;p&gt;define            定義函式&lt;/p&gt;
+&lt;p&gt;tri(*)              函式名稱&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第四週</title><link href="https://cpb.kmol.info/40623241/doc/trunk/blog/2017-fall-cadp-w4.html" rel="alternate"></link><published>2017-09-20T11:00:00+08:00</published><updated>2017-09-20T11:00:00+08:00</updated><author><name>40623241</name></author><id>tag:cpb.kmol.info,2017-09-20:/40623241/doc/trunk/blog/2017-fall-cadp-w4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;fossil基本指令&lt;/p&gt;
+&lt;p&gt;fossil clone - 克隆&lt;/p&gt;
+&lt;p&gt;fossil add - 新增&lt;/p&gt;
+&lt;p&gt;fossil commit - 提交&lt;/p&gt;
+&lt;p&gt;fossil push - 推送&lt;/p&gt;
+&lt;p&gt;課堂筆記&lt;/p&gt;
+&lt;p&gt;remark - 註解&lt;/p&gt;
+&lt;p&gt;protocol - 協定&lt;/p&gt;
+&lt;p&gt;certification - 簽章 - public key server&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry></feed>
